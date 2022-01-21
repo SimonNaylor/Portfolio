@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Simon Naylor # your name (or website title) here
+logo: "SimonNaylor.github.io/IMG_2137.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello! My name is Simon and I got my degree in Information Science at CU Boulder.
   <br><br>
-  Second description 
+  I am currently in the process of getting my masters in Security Analytics at CU Boulder as well.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/simonnaylor/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
